@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversPng", "ConversPng.csproj", "{662097C4-9327-4806-85E9-DFDF6017F8FE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Convers", "..\Convers\Convers.vdproj", "{DF8F28CC-BF70-48FD-9B57-4FE6F8179BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{662097C4-9327-4806-85E9-DFDF6017F8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662097C4-9327-4806-85E9-DFDF6017F8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662097C4-9327-4806-85E9-DFDF6017F8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662097C4-9327-4806-85E9-DFDF6017F8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF8F28CC-BF70-48FD-9B57-4FE6F8179BBB}.Debug|Any CPU.ActiveCfg = Debug
+		{DF8F28CC-BF70-48FD-9B57-4FE6F8179BBB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9C915FE-CF39-46C8-AB9B-6CA670ABDAA4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Vital\Desktop\Test\ConversPng\ConversPng\bin\Debug\ConversPng.exe.config
+C:\Users\Vital\Desktop\Test\ConversPng\ConversPng\bin\Debug\ConversPng.exe
+C:\Users\Vital\Desktop\Test\ConversPng\ConversPng\bin\Debug\ConversPng.pdb
+C:\Users\Vital\Desktop\Test\ConversPng\ConversPng\obj\Debug\ConversPng.csproj.AssemblyReference.cache
+C:\Users\Vital\Desktop\Test\ConversPng\ConversPng\obj\Debug\ConversPng.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vital\Desktop\Test\ConversPng\ConversPng\obj\Debug\ConversPng.Form1.resources
+C:\Users\Vital\Desktop\Test\ConversPng\ConversPng\obj\Debug\ConversPng.Properties.Resources.resources
+C:\Users\Vital\Desktop\Test\ConversPng\ConversPng\obj\Debug\ConversPng.csproj.GenerateResource.cache
+C:\Users\Vital\Desktop\Test\ConversPng\ConversPng\obj\Debug\ConversPng.csproj.CoreCompileInputs.cache
+C:\Users\Vital\Desktop\Test\ConversPng\ConversPng\obj\Debug\ConversPng.exe
+C:\Users\Vital\Desktop\Test\ConversPng\ConversPng\obj\Debug\ConversPng.pdb

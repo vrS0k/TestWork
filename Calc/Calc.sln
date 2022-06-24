@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc.csproj", "{97DF7205-4731-4DDB-BE11-34818AE9A283}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Calc installer", "Calc installer\Calc installer.vdproj", "{78F6CB2B-843B-49CF-8CA5-07F4AE22CF7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97DF7205-4731-4DDB-BE11-34818AE9A283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DF7205-4731-4DDB-BE11-34818AE9A283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DF7205-4731-4DDB-BE11-34818AE9A283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DF7205-4731-4DDB-BE11-34818AE9A283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F6CB2B-843B-49CF-8CA5-07F4AE22CF7C}.Debug|Any CPU.ActiveCfg = Debug
+		{78F6CB2B-843B-49CF-8CA5-07F4AE22CF7C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6105F53-98A2-443F-9996-68611823457A}
+	EndGlobalSection
+EndGlobal
